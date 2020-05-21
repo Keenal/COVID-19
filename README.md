@@ -1,4 +1,4 @@
-# COVID-19
+# Data Analysis with COVID-19
 
 ### Dataset
 This repo contains data analysis done on the recent [COVID-19 dataset] provided by the John Hopkins University. 
